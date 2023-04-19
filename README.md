@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OrangeHam
+- 👋 Hi, I’m @HJHamilton88
 - 👀 I’m interested in cybersecurity, game dev, AI, and more
 - 🌱 I’m currently learning how to code better
 
