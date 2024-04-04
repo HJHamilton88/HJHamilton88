@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HJHamilton88
 - 👀 I’m interested in cybersecurity, game dev, AI, and more
-- 🌱 I’m currently learning how to code better
+- :information_source: I'm a game designer and just a creative person in general
 
 <!---
 OrangeHam/OrangeHam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
