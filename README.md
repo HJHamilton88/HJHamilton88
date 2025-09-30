@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HJHamilton88
+- 👋 Hi, I’m @hjhamilton
 - 👀 I’m interested in cybersecurity, game dev, AI, and more
 - :information_source: I'm a game developer and a technical person in general
 
